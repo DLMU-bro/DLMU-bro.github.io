@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/DLMU-bro.png"  width="200">
+<a href="https://sm.ms/image/TkVbrCjplOyaLFn" target="_blank"><img src="https://s2.loli.net/2024/09/13/TkVbrCjplOyaLFn.png" ></a>
 
 # About
 
