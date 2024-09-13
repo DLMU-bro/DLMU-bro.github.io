@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<a href="https://sm.ms/image/TkVbrCjplOyaLFn" target="_blank"><img src="https://s2.loli.net/2024/09/13/TkVbrCjplOyaLFn.png" ></a>
+<a href="https://sm.ms/image/TkVbrCjplOyaLFn" target="_blank"><img src="https://s2.loli.net/2024/09/13/TkVbrCjplOyaLFn.png" width="200" ></a>
 
 # About
 
