@@ -39,7 +39,7 @@ In our meeting, we decided on two general directions, mountaineering aid machine
 
 These are some of the pictures we took during the meeting. Since I am not a professional photographer, these pictures may look amateurish.
 
-![first meeting](/assets/img/meeting1-1.jpg) ![first meeting](/assets/img/meeting1-2.jpg) ![first meeting](/assets/img/meeting1-3.jpg/800x400)
+![meeting1-2.jpg](https://s2.loli.net/2024/09/13/fJEj1IMFzxsDOkR.jpg) ![meeting1-1.jpg](https://s2.loli.net/2024/09/13/kTCSvhFVsIREAa7.jpg) ![meeting1-3.jpg](https://s2.loli.net/2024/09/13/mMeikaDZyBRnrAV.jpg)
 
 
 ## How to built this blog
