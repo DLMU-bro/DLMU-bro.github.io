@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/DLMU-bro.png
+photo: ![dlmu-bro.png](https://s2.loli.net/2024/09/13/TkVbrCjplOyaLFn.png)
 name: DLMU-bro
 display_name: DLMU-bro
 position: The One
