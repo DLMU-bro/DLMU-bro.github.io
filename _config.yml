@@ -1,8 +1,6 @@
-# Site Settings
-name: jekflix
-title: wangzihao | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: DLMU-bro
+title: DLMU-bro | A blog theme for Jekyll
+description: This is a blog for recording our details of capstone design
 tags:
   - blog
   - template
@@ -19,7 +17,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: wangzihaonb@dlmu.edu.cn
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,12 +27,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: DLMU-bro
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
