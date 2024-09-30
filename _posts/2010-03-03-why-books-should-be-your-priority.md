@@ -19,7 +19,7 @@ It's been a while since the last blog post, and we finally decided to use the bo
 Something about our idea:
 ![8aded8d885cf091021b0a5db92e37b1.png](https://s2.loli.net/2024/09/30/cBizI8kZq6DPUKH.png)
 Why we choose this:
-![d623c820b7faddb1d7c08965a88c4d0.png](https://s2.loli.net/2024/09/30/7fMyqnxgwZCaS14.png)
+![89fad41e469c82fd284a9877b339187.png](https://s2.loli.net/2024/09/30/bameG3QzKsVtwip.png)
 wHat will we figure out:
 ![b1925acaca4771d37e7ced4c8b8187d.png](https://s2.loli.net/2024/09/30/elqbSs2hdLZHYVO.png)
 How we design:
@@ -27,7 +27,7 @@ How we design:
 Furthermore:
 ![72b5a0b3e5c158b26280b87d4fdc77a.png](https://s2.loli.net/2024/09/30/6dcvOFzAjVgXLKp.png)
 Reference:
-![89fad41e469c82fd284a9877b339187.png](https://s2.loli.net/2024/09/30/bameG3QzKsVtwip.png)
+![d623c820b7faddb1d7c08965a88c4d0.png](https://s2.loli.net/2024/09/30/7fMyqnxgwZCaS14.png)
 <!--page-->
 
 
