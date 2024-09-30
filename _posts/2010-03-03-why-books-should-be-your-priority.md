@@ -25,7 +25,7 @@ What will we figure out:
 How we design:
 ![b1925acaca4771d37e7ced4c8b8187d.png](https://s2.loli.net/2024/09/30/elqbSs2hdLZHYVO.png)
 Furthermore:
-![72b5a0b3e5c158b26280b87d4fdc77a.png](https://s2.loli.net/2024/09/30/6dcvOFzAjVgXLKp.png)
+![c41c511b5222df7a455abbd929d1539.png](https://s2.loli.net/2024/09/30/YMbB2XuinFOSkVI.png)
 Reference:
 ![d623c820b7faddb1d7c08965a88c4d0.png](https://s2.loli.net/2024/09/30/7fMyqnxgwZCaS14.png)
 <!--page-->
